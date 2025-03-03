@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/Mrandbad/ANDBAD-MD-V1  /root/Hans_BOt
+RUN  git clone https://github.com/TeddyDommie/MAVERICK-MD  /root/Hans_BOt
 WORKDIR /root/kinghansmd/
 
 
