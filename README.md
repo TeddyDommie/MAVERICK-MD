@@ -1,7 +1,7 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://files.catbox.moe/zflj5d.jpg]'/></a>
 
 
-<p align="center">                                              𝚫𝚴𝐃𝚩𝚫𝐃-𝐌𝐃-𝐕1 
+<p align="center">                                              MAREVICK-MD 
 
 
 </p>
