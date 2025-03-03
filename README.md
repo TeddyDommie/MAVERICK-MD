@@ -19,7 +19,7 @@
  <a><img src='[https://files.catbox.moe/zflj5d.jpg]'/></a>
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=HELLO+WELCOME+TO+THIS+MAVERICK-MD!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines= HELLO+WELCOME+TO+THIS+MAVERICK-MD!)](https://git.io/typing-svg)
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+ME+A+STAR)](https://git.io/typing-svg)
 
