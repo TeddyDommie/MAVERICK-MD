@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝚫𝚴𝐃𝚩𝚫𝐃-𝐌𝐃-𝐕1 
+<p align="center">                                              MAREVICK-MD
 
 
 </p>
@@ -11,20 +11,6 @@
     </p>
  
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 <p align="center"> 
@@ -36,8 +22,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-+𝚳𝚫𝐃𝚵+𝚰𝚴+𝚻𝚫𝚴𝚭𝚫𝚴𝚰𝚫+🇹🇿" alt="Typing SVG" /></a>
-
-
+ 
 
 <a><img src='[https://files.catbox.moe/zflj5d.jpgf'/></a>
 
