@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🎣" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃", numero: "25576818788" },
-      { nom: "᚛𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃᚜", numero: "255783394967" },
-      { nom: "Lazack_28", numero: "255734980103" },
+      { nom: "MZAZI-NET TECH KENYA", numero: "254741388986" },
+      { nom: "᚛MZAZI-NET TECH KENYA᚜", numero: "254100156216" },
+      { nom: "MZAZI-NET TECH KENYA ", numero: "254108595201" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO 𝚫𝚴𝐃𝚩𝚫𝐃 MEDIA HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO MAVERICK-MD MEDIA HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING 𝚫𝚴𝐃𝚩𝚫𝐃 MD, HERE ARE OUR SUPPORTIVE CHANNEL\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m]") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING 𝚫𝚴𝐃𝚩𝚫𝐃 MD,MAKE SURE YOU FOLLOW THESE CHANNELS.\n\n https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING MAVERICK-MD, HERE ARE OUR SUPPORTIVE CHANNEL\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n https://whatsapp.com/channel/0029Vb7pEw24Crfinj6SfU2b") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING MAVERICK-MD,MAKE SURE YOU FOLLOW THESE CHANNELS.\n\n https://whatsapp.com/channel/0029Vb7pEw24Crfinj6SfU2b`},{quoted :ms})
 
 })
