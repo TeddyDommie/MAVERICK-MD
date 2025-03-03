@@ -43,14 +43,14 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠╰──────────────
 │❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
 │❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Mrandbad/ANDBAD-MD-V1
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@andbadtz
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/TeddyDommie/MAVERICK-MD
+│❒⁠⁠⁠⁠│▸ *YTUBE* : Commung soon
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
     
 let menuMsg = `
-     MADE EASY BY 𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃
+     MADE EASY BY MZAZI
 
 ❒────────────────────❒`;
 
