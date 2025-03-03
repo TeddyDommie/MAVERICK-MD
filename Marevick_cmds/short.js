@@ -70,7 +70,7 @@ let downloadData;
 
     // Prepare the message with song details
     const messagePayload = {
-      caption: `\n*𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃 𝗦𝗢𝗡𝗚𝗦*\n
+      caption: `\n*MAVERICK-MD 𝗦𝗢𝗡𝗚𝗦*\n
 ╭━⊷
 ┃ *Title:* ${songTitle} 
 ┃ *Quality:* High
@@ -85,10 +85,10 @@ let downloadData;
         mimetype: 'audio/mpeg',
         contextInfo: {
           externalAdReply: {
-            title: "𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃" ,
+            title: "MAVERICK-MD" ,
             body: "Tap her to follow our channel",
             mediaType: 1,
-            sourceUrl:"https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo",
+            sourceUrl:"https://whatsapp.com/channel/0029Vb7pEw24Crfinj6SfU2b",
             thumbnailUrl: firstVideo.thumbnail,
             renderLargerThumbnail: false,
             showAdAttribution: true,
