@@ -6,7 +6,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
+  <a href="[https](https://whatsapp.com/channel/0029Vb7pEw24Crfinj6SfU2b">
     <img alt=Support height="390" src="https://files.catbox.moe/zflj5d.jpg"> 
     </p>
  
