@@ -33,7 +33,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《🇹🇿《𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃》🇹🇿》────
+╭────《🇰🇪《MAVERICK-MD》🇰🇪》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -42,13 +42,13 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *ANDBADTHEME*
+│❒│⁠⁠⁠⁠ *THEME* : *MAVERICKTHEME*
 ┬  ╰──────────────
-╰─── ··《🇹🇿《𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃》🇹🇿》··──\n`;
+╰─── ··《🇰🇪《MAVERICK-MD》🇰🇪》··──\n`;
     
 let menuMsg = `
  ─────────
-  *☠️𝚻𝚵𝚫𝚳 𝚫𝚴𝐃𝚩𝚫𝐃 𝚩𝚯𝚻☠️* 
+  *☠️TEAM MAVERICK-MD BOT☠️* 
  ─────────
 
 
@@ -67,7 +67,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣𝐌𝐀𝐃𝐄 𝐄𝐀𝐒𝐘 𝐛𝐲 𝐌𝐑 𝐀𝐍𝐃𝐁𝐀𝐃🥷
+|⏣𝐌𝐀𝐃𝐄 𝐄𝐀𝐒𝐘 𝐛𝐲 MZAZI🥷
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
