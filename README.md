@@ -19,9 +19,11 @@
  <a><img src='[https://files.catbox.moe/zflj5d.jpg]'/></a>
 
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=HOLLA+WELCOME+TO+THIS+REPO!)](https://git.io/typing-svg)
 
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-+𝚳𝚫𝐃𝚵+𝚰𝚴+𝚻𝚫𝚴𝚭𝚫𝚴𝚰𝚫+🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= MADE+IN+KENYA+BY+MZAZI" alt="Typing SVG" /></a>
  
 
 <a><img src='[https://files.catbox.moe/zflj5d.jpgf'/></a>
