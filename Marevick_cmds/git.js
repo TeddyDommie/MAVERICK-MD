@@ -41,16 +41,16 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *GROUP* 
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Mrandbad/ANDBAD-MD-V1
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@andbadtz
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vb7pEw24Crfinj6SfU2b
+│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/F0VwTbu4wDlD5weh68x3aC
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/TeddyDommie/MAVERICK-MD
+│❒⁠⁠⁠⁠│▸ *YTUBE* : Comming soon
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n─
   `;
     
 let menuMsg = `
-     > ANDBAD BOTS TEAM
+     > MZAZI-NET TECH KENYA BOTS TEAM
 
 ❒────────────────────❒`;
     
